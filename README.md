@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Manon202
+- 👀 I’m interested in learning new things, languages...
+- 🌱 I’m currently studying CS50’s Computer Science for Business Professionals
+- 📫 You can hit me up here, just send me a message.
